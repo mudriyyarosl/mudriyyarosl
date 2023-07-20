@@ -1,3 +1,4 @@
+hell yeah
 - 👋 Hi, I’m @mudriyyarosl
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning python
