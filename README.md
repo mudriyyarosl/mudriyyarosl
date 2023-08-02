@@ -9,8 +9,3 @@ hell yeah
 You can click the Preview link to take a look at your changes.
 Arrested capital))))
 ---> right arrow___
-
-- 📫 books
-- 📫 booksE.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-Arrested capital))))
