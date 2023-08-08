@@ -3,8 +3,6 @@ hell yeah
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning python
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on git
 - 📫 How to reach me anonim
 - 📫 books
 - 📫 booksE
