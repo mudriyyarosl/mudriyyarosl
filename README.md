@@ -7,6 +7,11 @@ hell yeah
 - 📫 books
 - 📫 booksE
 - 👀 I’m interested in crypto
+- 📫 How to reach me anonim
+- 📫 books
+- 📫 booksE
+- 👀 I’m interested in crypto
+- 🌱 I’m currently learning python
 - 🌱 I’m currently learning python
 - 👀 I’m interested in crypt
 ---> right arrow___
