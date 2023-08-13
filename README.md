@@ -2,7 +2,6 @@ hell yeah
 - 👋 Hi, I’m @mudriyyarosl
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning python
-- 👀 I’m interested in crypto
 - 📫 How to reach me anonim
 - 👀 I’m interested in crypt
 ---> right arrow___
