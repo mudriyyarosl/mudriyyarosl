@@ -8,7 +8,6 @@ hell yeah
 - 👀 I’m interested in crypt
 ---> right arrow___ing python
 - 📫 How to reach me anonim
-- 👀 I’m interested in crypt
 - 👋 Hi, I’m @mudriyyarosl
 
 hell yeah
