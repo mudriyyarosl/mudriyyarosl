@@ -9,9 +9,6 @@ hell yeah
 ---> right arrow___ing python
 - 📫 How to reach me anonim
 - 👋 Hi, I’m @mudriyyarosl
-
-hell yeah
-- 👋 Hi, I’m @mudriyyarosl
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning
 
