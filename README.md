@@ -11,7 +11,5 @@ hell yeah
 - 📫 How to reach me anonim
 - 👋 Hi, I’m @mudriyyarosl1
 - 👋 Hi, I’m @mudriyyarosl
-- 👀 I’m interested in cryptoour GitHub profile.
-You can click the Preview link to take a look at your changes.
 Arrested capital))))
 ---> right arrow___
