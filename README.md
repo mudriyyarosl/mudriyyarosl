@@ -11,5 +11,5 @@ hell yeah
 - 📫 How to reach me anonim
 - 👋 Hi, I’m @mudriyyarosl1
 - 👋 Hi, I’m @mudriyyarosl
-Arrested capital))))
+Arrested capital))
 ---> right arrow___
