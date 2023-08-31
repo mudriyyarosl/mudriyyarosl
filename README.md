@@ -3,7 +3,7 @@ hell yeah
 - 👀 I’m interested in crypt
 ---> right arrow___ing python
 - 📫 How to reach me anonim
-- 👀 I’m interested in crypt
+ crypt
 - 👀 I’m interested in crypt
 ---> right arrow___ing python
 ---> right arrow___ing python
