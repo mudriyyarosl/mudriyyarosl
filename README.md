@@ -4,7 +4,6 @@ hell yeah
 ---> right arrow___ing python
 - 📫 How to reach me anonim
  crypt
-- 👀 I’m interested in crypt
 ---> right arrow___ing python
 ---> right arrow___ing python
 - 📫 How to reach me anon
