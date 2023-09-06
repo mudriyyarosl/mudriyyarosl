@@ -2,7 +2,7 @@ hell yeah
 - 👋 Hi, I’m @mudriyyarosl
 - 👀 I’m interested in crypt
 ---> right arrow___ing python
-- 📫 How to reach me anonim
+- 📫 How to reach me anon
  crypt
 ---> right arrow___ing python
 ---> right arrow___ing python
