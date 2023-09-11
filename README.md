@@ -8,6 +8,6 @@ hell yeah
 ---> right arrow___ing pyth
 - 📫 How to reach me an
 - 👋 Hi, I’m @mudriyyaros
-- 👋 Hi, I’m @mudriyyarosl
+- 👋 Hi, I’m @mudriyya
 Arrested capital))
 ---> right arrow___
