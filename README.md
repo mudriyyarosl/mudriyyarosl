@@ -1,7 +1,7 @@
 hell yeah
 - 👋 Hi, I’m @mudriyyarosl
 - 👀 I’m interested in cry
----> right arrow___ing python
+---> right arrow___ing pyt
 - 📫 How to reach me anon
  crypt
 ---> right arrow___ing python
