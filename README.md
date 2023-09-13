@@ -9,5 +9,5 @@ hell yeah
 - 📫 How to reach me an
 - 👋 Hi, I’m @mudriyyaros
 - 👋 Hi, I’m @mudriyya
-Arrested capital))
+Arrested capi
 ---> right arrow___
