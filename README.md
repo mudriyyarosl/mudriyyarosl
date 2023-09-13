@@ -3,7 +3,7 @@ hell yeah
 - 👀 I’m interested in cry
 ---> right arrow___ing pyt
 - 📫 How to reach me anon
- crypt
+ cr
 ---> right arrow___ing python
 ---> right arrow___ing pyth
 - 📫 How to reach me an
