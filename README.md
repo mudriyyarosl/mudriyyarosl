@@ -7,7 +7,7 @@ hell yeah
 ---> right arrow___ing python
 ---> right arrow___ing pyth
 - 📫 How to reach me an
-- 👋 Hi, I’m @mudriyyaros
+- 👋 Hi, I’m @mudriyya
 - 👋 Hi, I’m @mudriyya
 Arrested capi
 ---> right arrow___
