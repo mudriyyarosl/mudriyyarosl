@@ -8,4 +8,4 @@ hell yeah
 ---> right arrow___ing pyth
 - 👋 Hi, I’m @mudriyya
 Arrested capi
----> right arrow___
+---> right arrow
