@@ -4,8 +4,7 @@ hell yeah
 ---> right arrow___ing pyt
 - 📫 How to reach me anon
  cr
----> right arrow___ing python
----> right arrow___ing pyth
+---> right arrow___ing pytho
 - 👋 Hi, I’m @mudriyya
 Arrested capi
 ---> right arrow
