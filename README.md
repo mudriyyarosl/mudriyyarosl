@@ -7,4 +7,4 @@ hell yeah
 ---> right arrow___ing pytho
 - 👋 Hi, I’m @mudriyya
 Arrested capi
----> right arrow
+---> right arr
