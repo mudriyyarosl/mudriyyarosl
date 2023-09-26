@@ -8,7 +8,7 @@ import 'package:flutter/material.da
 teles
   // This widget is the root of yoimport 'packager/material.da
   Widget build(BuildContext context) {zero; the alit
-        // is not restar
+        // is not
 telessWid
   // This widget is the root of your applica
 telessWidget {
