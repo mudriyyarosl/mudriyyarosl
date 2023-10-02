@@ -3,8 +3,6 @@ hell yeah
 - 👀 I’m interested in cry
 ---> right arrow___ing pyt
 import 'package:flutter/material.da
-  Widget build(BuildContext context) {zero; the alition
-        // is not restar
 teles
   // This widget is the root of yoimport 'package
 }
