@@ -2,8 +2,6 @@ hell yeah
 - 👋 Hi, I’m @mudriyyarosl
 - 👀 I’m interested in cry
 ---> right arrow___ing pyt
-import 'package:flutter/material.daick.waitForXPath(clickSelector);elector await page4.waiorNetworkIdle(l; await page4.click(elementSeIdl; await page4.waitForSelector(elementSelector4); count_number;= data.profiles[i].id; const accou
-                        await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
 StylishDemon        const profileId = data.iles[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
