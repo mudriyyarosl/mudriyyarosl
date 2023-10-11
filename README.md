@@ -4,8 +4,6 @@ hell yeah
 ---> right arrow___ing pyt
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
 StylishDemon        const profileId = data.iles[i        const prof# Stylish
-(resolve, 1500));browser.newPappsharde
-        const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
