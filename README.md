@@ -5,7 +5,7 @@ hell yeah
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
-        const profilePassword = da.profiles[es[i].password;        
+        const profilePassword = da.profiles[es[i].passw
                         await page4.waitForNetworkIdle(l
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
