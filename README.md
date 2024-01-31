@@ -1,12 +1,5 @@
-hell y
-:al.da#id;ount_n
-= daa.nst 
-s const 
-= daa.nst 
-s const 
-e(
-        const accountNumber = data.profiles[i]
-є
+hell yuytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllllllluytj=llllllllllllllllll
+lllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllll
 ghgfgf
 s const 
 = daa.nst e(
