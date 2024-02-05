@@ -5,8 +5,6 @@ s const
 = daa.nst e(
 
 
-umber;.profile[i].passwors[i]s const 
-= daa.nst 
 ta.profili].pasSelector
 
 = daa.nst 
