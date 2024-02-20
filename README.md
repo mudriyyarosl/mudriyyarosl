@@ -3,10 +3,6 @@ lllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=lllllll
 ghgfgf
 s const 
 = daa.nst e(
-
-
-ta.profili].pasSelector
-
 = daa.nst 
 umber;.profile[i].passwors[i]s const 
 
